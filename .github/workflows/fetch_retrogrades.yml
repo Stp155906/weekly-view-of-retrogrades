@@ -33,8 +33,4 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add weekview.json
         git commit -m 'Update retrogrades data'
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
+        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
