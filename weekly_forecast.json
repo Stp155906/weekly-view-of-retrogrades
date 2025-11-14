@@ -1,249 +1,6 @@
 {
     "weekly_forecast": [
         {
-            "date": "2025-11-13",
-            "retrogrades": [
-                {
-                    "date": "2025-11-13",
-                    "body": "Mercury"
-                },
-                {
-                    "date": "2025-11-13",
-                    "body": "Jupiter"
-                },
-                {
-                    "date": "2025-11-13",
-                    "body": "Saturn"
-                },
-                {
-                    "date": "2025-11-13",
-                    "body": "Uranus"
-                },
-                {
-                    "date": "2025-11-13",
-                    "body": "Neptune"
-                }
-            ],
-            "aspects": [
-                {
-                    "planet1": "mercury",
-                    "planet2": "venus",
-                    "aspect": "semi-sextile",
-                    "angle": 28.46527291709566,
-                    "meaning": "Potential Energy"
-                },
-                {
-                    "planet1": "mercury",
-                    "planet2": "mars",
-                    "aspect": "conjunction",
-                    "angle": 0.038887562614405624,
-                    "meaning": "Merging Energy"
-                },
-                {
-                    "planet1": "mercury",
-                    "planet2": "jupiter",
-                    "aspect": "sesquiquadrate",
-                    "angle": 130.9040058264709,
-                    "meaning": "Dynamic Energy"
-                },
-                {
-                    "planet1": "mercury",
-                    "planet2": "uranus",
-                    "aspect": "opposition",
-                    "angle": 186.2535758042692,
-                    "meaning": "Balancing Energy"
-                },
-                {
-                    "planet1": "mercury",
-                    "planet2": "neptune",
-                    "aspect": "trine",
-                    "angle": 113.52803014984306,
-                    "meaning": "Supporting Energy"
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "mercury",
-                    "aspect": "semi-sextile",
-                    "angle": 28.46527291709566,
-                    "meaning": "Potential Energy"
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "mars",
-                    "aspect": "semi-sextile",
-                    "angle": 28.504160479710066,
-                    "meaning": "Potential Energy"
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "saturn",
-                    "aspect": "sesquiquadrate",
-                    "angle": 137.77241423442365,
-                    "meaning": "Dynamic Energy"
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "uranus",
-                    "aspect": "inconjunct",
-                    "angle": 157.78830288717353,
-                    "meaning": "Disrupting Energy"
-                },
-                {
-                    "planet1": "venus",
-                    "planet2": "neptune",
-                    "aspect": "sesquiquadrate",
-                    "angle": 141.99330306693872,
-                    "meaning": "Dynamic Energy"
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "mercury",
-                    "aspect": "conjunction",
-                    "angle": 0.038887562614405624,
-                    "meaning": "Merging Energy"
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "venus",
-                    "aspect": "semi-sextile",
-                    "angle": 28.504160479710066,
-                    "meaning": "Potential Energy"
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "jupiter",
-                    "aspect": "sesquiquadrate",
-                    "angle": 130.94289338908527,
-                    "meaning": "Dynamic Energy"
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "uranus",
-                    "aspect": "opposition",
-                    "angle": 186.29246336688362,
-                    "meaning": "Balancing Energy"
-                },
-                {
-                    "planet1": "mars",
-                    "planet2": "neptune",
-                    "aspect": "trine",
-                    "angle": 113.48914258722866,
-                    "meaning": "Supporting Energy"
-                },
-                {
-                    "planet1": "jupiter",
-                    "planet2": "mercury",
-                    "aspect": "sesquiquadrate",
-                    "angle": 130.9040058264709,
-                    "meaning": "Dynamic Energy"
-                },
-                {
-                    "planet1": "jupiter",
-                    "planet2": "mars",
-                    "aspect": "sesquiquadrate",
-                    "angle": 130.94289338908527,
-                    "meaning": "Dynamic Energy"
-                },
-                {
-                    "planet1": "jupiter",
-                    "planet2": "uranus",
-                    "aspect": "sextile",
-                    "angle": 55.349569977798325,
-                    "meaning": "Collaborating Energy"
-                },
-                {
-                    "planet1": "saturn",
-                    "planet2": "venus",
-                    "aspect": "sesquiquadrate",
-                    "angle": 137.77241423442365,
-                    "meaning": "Dynamic Energy"
-                },
-                {
-                    "planet1": "saturn",
-                    "planet2": "neptune",
-                    "aspect": "conjunction",
-                    "angle": 4.220888832515072,
-                    "meaning": "Merging Energy"
-                },
-                {
-                    "planet1": "uranus",
-                    "planet2": "mercury",
-                    "aspect": "opposition",
-                    "angle": 186.2535758042692,
-                    "meaning": "Balancing Energy"
-                },
-                {
-                    "planet1": "uranus",
-                    "planet2": "venus",
-                    "aspect": "inconjunct",
-                    "angle": 157.78830288717353,
-                    "meaning": "Disrupting Energy"
-                },
-                {
-                    "planet1": "uranus",
-                    "planet2": "mars",
-                    "aspect": "opposition",
-                    "angle": 186.29246336688362,
-                    "meaning": "Balancing Energy"
-                },
-                {
-                    "planet1": "uranus",
-                    "planet2": "jupiter",
-                    "aspect": "sextile",
-                    "angle": 55.349569977798325,
-                    "meaning": "Collaborating Energy"
-                },
-                {
-                    "planet1": "neptune",
-                    "planet2": "mercury",
-                    "aspect": "trine",
-                    "angle": 113.52803014984306,
-                    "meaning": "Supporting Energy"
-                },
-                {
-                    "planet1": "neptune",
-                    "planet2": "venus",
-                    "aspect": "sesquiquadrate",
-                    "angle": 141.99330306693872,
-                    "meaning": "Dynamic Energy"
-                },
-                {
-                    "planet1": "neptune",
-                    "planet2": "mars",
-                    "aspect": "trine",
-                    "angle": 113.48914258722866,
-                    "meaning": "Supporting Energy"
-                },
-                {
-                    "planet1": "neptune",
-                    "planet2": "saturn",
-                    "aspect": "conjunction",
-                    "angle": 4.220888832515072,
-                    "meaning": "Merging Energy"
-                }
-            ],
-            "recommendations": {
-                "do": [
-                    "Collaborate with others and share ideas",
-                    "Adjust your plans to accommodate new insights",
-                    "Take advantage of harmonious energies",
-                    "Seek balance in conflicts",
-                    "Focus on unity and harmony",
-                    "Stay flexible and adaptable",
-                    "Recognize and integrate subtle energies"
-                ],
-                "dont": [
-                    "Ignore small issues that could grow",
-                    "Miss opportunities for cooperation",
-                    "Become rigid in your approach",
-                    "Become complacent",
-                    "Ignore group dynamics",
-                    "Overlook minor details",
-                    "Take extreme positions"
-                ]
-            }
-        },
-        {
             "date": "2025-11-14",
             "retrogrades": [
                 {
@@ -453,20 +210,20 @@
             ],
             "recommendations": {
                 "do": [
-                    "Collaborate with others and share ideas",
-                    "Take advantage of harmonious energies",
-                    "Seek balance in conflicts",
                     "Focus on unity and harmony",
-                    "Stay flexible and adaptable",
-                    "Recognize and integrate subtle energies"
+                    "Seek balance in conflicts",
+                    "Take advantage of harmonious energies",
+                    "Recognize and integrate subtle energies",
+                    "Collaborate with others and share ideas",
+                    "Stay flexible and adaptable"
                 ],
                 "dont": [
                     "Miss opportunities for cooperation",
-                    "Become rigid in your approach",
-                    "Become complacent",
-                    "Ignore group dynamics",
                     "Overlook minor details",
-                    "Take extreme positions"
+                    "Ignore group dynamics",
+                    "Take extreme positions",
+                    "Become complacent",
+                    "Become rigid in your approach"
                 ]
             }
         },
@@ -680,20 +437,20 @@
             ],
             "recommendations": {
                 "do": [
-                    "Collaborate with others and share ideas",
-                    "Take advantage of harmonious energies",
-                    "Seek balance in conflicts",
                     "Focus on unity and harmony",
-                    "Stay flexible and adaptable",
-                    "Recognize and integrate subtle energies"
+                    "Seek balance in conflicts",
+                    "Take advantage of harmonious energies",
+                    "Recognize and integrate subtle energies",
+                    "Collaborate with others and share ideas",
+                    "Stay flexible and adaptable"
                 ],
                 "dont": [
                     "Miss opportunities for cooperation",
-                    "Become rigid in your approach",
-                    "Become complacent",
-                    "Ignore group dynamics",
                     "Overlook minor details",
-                    "Take extreme positions"
+                    "Ignore group dynamics",
+                    "Take extreme positions",
+                    "Become complacent",
+                    "Become rigid in your approach"
                 ]
             }
         },
@@ -879,20 +636,20 @@
             ],
             "recommendations": {
                 "do": [
-                    "Collaborate with others and share ideas",
-                    "Take advantage of harmonious energies",
-                    "Seek balance in conflicts",
                     "Focus on unity and harmony",
-                    "Stay flexible and adaptable",
-                    "Recognize and integrate subtle energies"
+                    "Seek balance in conflicts",
+                    "Take advantage of harmonious energies",
+                    "Recognize and integrate subtle energies",
+                    "Collaborate with others and share ideas",
+                    "Stay flexible and adaptable"
                 ],
                 "dont": [
                     "Miss opportunities for cooperation",
-                    "Become rigid in your approach",
-                    "Become complacent",
-                    "Ignore group dynamics",
                     "Overlook minor details",
-                    "Take extreme positions"
+                    "Ignore group dynamics",
+                    "Take extreme positions",
+                    "Become complacent",
+                    "Become rigid in your approach"
                 ]
             }
         },
@@ -1092,20 +849,20 @@
             ],
             "recommendations": {
                 "do": [
-                    "Collaborate with others and share ideas",
-                    "Take advantage of harmonious energies",
-                    "Seek balance in conflicts",
                     "Focus on unity and harmony",
-                    "Stay flexible and adaptable",
-                    "Recognize and integrate subtle energies"
+                    "Seek balance in conflicts",
+                    "Take advantage of harmonious energies",
+                    "Recognize and integrate subtle energies",
+                    "Collaborate with others and share ideas",
+                    "Stay flexible and adaptable"
                 ],
                 "dont": [
                     "Miss opportunities for cooperation",
-                    "Become rigid in your approach",
-                    "Become complacent",
-                    "Ignore group dynamics",
                     "Overlook minor details",
-                    "Take extreme positions"
+                    "Ignore group dynamics",
+                    "Take extreme positions",
+                    "Become complacent",
+                    "Become rigid in your approach"
                 ]
             }
         },
@@ -1277,19 +1034,19 @@
             ],
             "recommendations": {
                 "do": [
-                    "Collaborate with others and share ideas",
-                    "Take advantage of harmonious energies",
-                    "Seek balance in conflicts",
                     "Focus on unity and harmony",
-                    "Stay flexible and adaptable",
-                    "Recognize and integrate subtle energies"
+                    "Seek balance in conflicts",
+                    "Take advantage of harmonious energies",
+                    "Recognize and integrate subtle energies",
+                    "Collaborate with others and share ideas",
+                    "Stay flexible and adaptable"
                 ],
                 "dont": [
                     "Miss opportunities for cooperation",
+                    "Overlook minor details",
+                    "Ignore group dynamics",
                     "Take extreme positions",
                     "Become complacent",
-                    "Ignore group dynamics",
-                    "Overlook minor details",
                     "Become rigid in your approach"
                 ]
             }
@@ -1462,19 +1219,204 @@
             ],
             "recommendations": {
                 "do": [
-                    "Collaborate with others and share ideas",
-                    "Take advantage of harmonious energies",
-                    "Seek balance in conflicts",
                     "Focus on unity and harmony",
-                    "Stay flexible and adaptable",
-                    "Recognize and integrate subtle energies"
+                    "Seek balance in conflicts",
+                    "Take advantage of harmonious energies",
+                    "Recognize and integrate subtle energies",
+                    "Collaborate with others and share ideas",
+                    "Stay flexible and adaptable"
                 ],
                 "dont": [
                     "Miss opportunities for cooperation",
+                    "Overlook minor details",
+                    "Ignore group dynamics",
                     "Take extreme positions",
                     "Become complacent",
-                    "Ignore group dynamics",
+                    "Become rigid in your approach"
+                ]
+            }
+        },
+        {
+            "date": "2025-11-20",
+            "retrogrades": [
+                {
+                    "date": "2025-11-20",
+                    "body": "Mercury"
+                },
+                {
+                    "date": "2025-11-20",
+                    "body": "Jupiter"
+                },
+                {
+                    "date": "2025-11-20",
+                    "body": "Saturn"
+                },
+                {
+                    "date": "2025-11-20",
+                    "body": "Uranus"
+                },
+                {
+                    "date": "2025-11-20",
+                    "body": "Neptune"
+                }
+            ],
+            "aspects": [
+                {
+                    "planet1": "mercury",
+                    "planet2": "jupiter",
+                    "aspect": "trine",
+                    "angle": 123.80163510200009,
+                    "meaning": "Supporting Energy"
+                },
+                {
+                    "planet1": "mercury",
+                    "planet2": "saturn",
+                    "aspect": "trine",
+                    "angle": 116.37752418572848,
+                    "meaning": "Supporting Energy"
+                },
+                {
+                    "planet1": "mercury",
+                    "planet2": "uranus",
+                    "aspect": "opposition",
+                    "angle": 179.32992602255268,
+                    "meaning": "Balancing Energy"
+                },
+                {
+                    "planet1": "mercury",
+                    "planet2": "neptune",
+                    "aspect": "trine",
+                    "angle": 120.65122133138516,
+                    "meaning": "Supporting Energy"
+                },
+                {
+                    "planet1": "venus",
+                    "planet2": "mars",
+                    "aspect": "semi-sextile",
+                    "angle": 24.816242167058903,
+                    "meaning": "Potential Energy"
+                },
+                {
+                    "planet1": "venus",
+                    "planet2": "saturn",
+                    "aspect": "sesquiquadrate",
+                    "angle": 128.84247189677907,
+                    "meaning": "Dynamic Energy"
+                },
+                {
+                    "planet1": "venus",
+                    "planet2": "neptune",
+                    "aspect": "sesquiquadrate",
+                    "angle": 133.11616904243576,
+                    "meaning": "Dynamic Energy"
+                },
+                {
+                    "planet1": "mars",
+                    "planet2": "venus",
+                    "aspect": "semi-sextile",
+                    "angle": 24.816242167058903,
+                    "meaning": "Potential Energy"
+                },
+                {
+                    "planet1": "mars",
+                    "planet2": "jupiter",
+                    "aspect": "sesquiquadrate",
+                    "angle": 136.1529295580084,
+                    "meaning": "Dynamic Energy"
+                },
+                {
+                    "planet1": "jupiter",
+                    "planet2": "mercury",
+                    "aspect": "trine",
+                    "angle": 123.80163510200009,
+                    "meaning": "Supporting Energy"
+                },
+                {
+                    "planet1": "jupiter",
+                    "planet2": "mars",
+                    "aspect": "sesquiquadrate",
+                    "angle": 136.1529295580084,
+                    "meaning": "Dynamic Energy"
+                },
+                {
+                    "planet1": "jupiter",
+                    "planet2": "uranus",
+                    "aspect": "sextile",
+                    "angle": 55.528290920552585,
+                    "meaning": "Collaborating Energy"
+                },
+                {
+                    "planet1": "saturn",
+                    "planet2": "mercury",
+                    "aspect": "trine",
+                    "angle": 116.37752418572848,
+                    "meaning": "Supporting Energy"
+                },
+                {
+                    "planet1": "saturn",
+                    "planet2": "venus",
+                    "aspect": "sesquiquadrate",
+                    "angle": 128.84247189677907,
+                    "meaning": "Dynamic Energy"
+                },
+                {
+                    "planet1": "saturn",
+                    "planet2": "neptune",
+                    "aspect": "conjunction",
+                    "angle": 4.2736971456566835,
+                    "meaning": "Merging Energy"
+                },
+                {
+                    "planet1": "uranus",
+                    "planet2": "mercury",
+                    "aspect": "opposition",
+                    "angle": 179.32992602255268,
+                    "meaning": "Balancing Energy"
+                },
+                {
+                    "planet1": "uranus",
+                    "planet2": "jupiter",
+                    "aspect": "sextile",
+                    "angle": 55.528290920552585,
+                    "meaning": "Collaborating Energy"
+                },
+                {
+                    "planet1": "neptune",
+                    "planet2": "mercury",
+                    "aspect": "trine",
+                    "angle": 120.65122133138516,
+                    "meaning": "Supporting Energy"
+                },
+                {
+                    "planet1": "neptune",
+                    "planet2": "venus",
+                    "aspect": "sesquiquadrate",
+                    "angle": 133.11616904243576,
+                    "meaning": "Dynamic Energy"
+                },
+                {
+                    "planet1": "neptune",
+                    "planet2": "saturn",
+                    "aspect": "conjunction",
+                    "angle": 4.2736971456566835,
+                    "meaning": "Merging Energy"
+                }
+            ],
+            "recommendations": {
+                "do": [
+                    "Focus on unity and harmony",
+                    "Seek balance in conflicts",
+                    "Take advantage of harmonious energies",
+                    "Recognize and integrate subtle energies",
+                    "Collaborate with others and share ideas",
+                    "Stay flexible and adaptable"
+                ],
+                "dont": [
+                    "Miss opportunities for cooperation",
                     "Overlook minor details",
+                    "Ignore group dynamics",
+                    "Take extreme positions",
+                    "Become complacent",
                     "Become rigid in your approach"
                 ]
             }
@@ -1482,7 +1424,7 @@
     ],
     "notifications": [
         {
-            "upcoming_retrograde_alert": "Mercury retrograde on 2025-11-13, Jupiter retrograde on 2025-11-13, Saturn retrograde on 2025-11-13, Uranus retrograde on 2025-11-13, Neptune retrograde on 2025-11-13, Mercury retrograde on 2025-11-14, Jupiter retrograde on 2025-11-14, Saturn retrograde on 2025-11-14, Uranus retrograde on 2025-11-14, Neptune retrograde on 2025-11-14, Mercury retrograde on 2025-11-15, Jupiter retrograde on 2025-11-15, Saturn retrograde on 2025-11-15, Uranus retrograde on 2025-11-15, Neptune retrograde on 2025-11-15, Mercury retrograde on 2025-11-16, Jupiter retrograde on 2025-11-16, Saturn retrograde on 2025-11-16, Uranus retrograde on 2025-11-16, Neptune retrograde on 2025-11-16, Mercury retrograde on 2025-11-17, Jupiter retrograde on 2025-11-17, Saturn retrograde on 2025-11-17, Uranus retrograde on 2025-11-17, Neptune retrograde on 2025-11-17, Mercury retrograde on 2025-11-18, Jupiter retrograde on 2025-11-18, Saturn retrograde on 2025-11-18, Uranus retrograde on 2025-11-18, Neptune retrograde on 2025-11-18, Mercury retrograde on 2025-11-19, Jupiter retrograde on 2025-11-19, Saturn retrograde on 2025-11-19, Uranus retrograde on 2025-11-19, Neptune retrograde on 2025-11-19",
+            "upcoming_retrograde_alert": "Mercury retrograde on 2025-11-14, Jupiter retrograde on 2025-11-14, Saturn retrograde on 2025-11-14, Uranus retrograde on 2025-11-14, Neptune retrograde on 2025-11-14, Mercury retrograde on 2025-11-15, Jupiter retrograde on 2025-11-15, Saturn retrograde on 2025-11-15, Uranus retrograde on 2025-11-15, Neptune retrograde on 2025-11-15, Mercury retrograde on 2025-11-16, Jupiter retrograde on 2025-11-16, Saturn retrograde on 2025-11-16, Uranus retrograde on 2025-11-16, Neptune retrograde on 2025-11-16, Mercury retrograde on 2025-11-17, Jupiter retrograde on 2025-11-17, Saturn retrograde on 2025-11-17, Uranus retrograde on 2025-11-17, Neptune retrograde on 2025-11-17, Mercury retrograde on 2025-11-18, Jupiter retrograde on 2025-11-18, Saturn retrograde on 2025-11-18, Uranus retrograde on 2025-11-18, Neptune retrograde on 2025-11-18, Mercury retrograde on 2025-11-19, Jupiter retrograde on 2025-11-19, Saturn retrograde on 2025-11-19, Uranus retrograde on 2025-11-19, Neptune retrograde on 2025-11-19, Mercury retrograde on 2025-11-20, Jupiter retrograde on 2025-11-20, Saturn retrograde on 2025-11-20, Uranus retrograde on 2025-11-20, Neptune retrograde on 2025-11-20",
             "daily_tip": "Reflect on the influences of the retrogrades."
         }
     ],
